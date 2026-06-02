@@ -60,5 +60,4 @@ Services:
 | Service | URL |
 |---|---|
 | Juice Shop (target) | http://localhost:3000 |
-| Temporal UI | http://localhost:8233 |
-| Temporal gRPC | localhost:7233 |
+

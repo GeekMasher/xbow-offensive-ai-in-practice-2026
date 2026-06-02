@@ -67,7 +67,7 @@ pentestgpt --resume --session-id <id>                                        # R
 
 ### Port Already in Use
 
-If port 3000, 7233, or 8233 is already allocated:
+If port 3000 is already allocated:
 
 ```bash
 docker compose down
